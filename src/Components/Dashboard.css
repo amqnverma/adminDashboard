@@ -1,0 +1,95 @@
+.bank-balance{
+  width: 11rem;
+  height: 6.5rem;
+  padding: 1rem;
+  border-radius: 15px;
+  box-shadow: rgb(211, 209, 255,1) 0px 4px 16px;
+}
+.bank-balance h4{
+  margin-top: 0.6rem;
+  color: rgba(64, 60, 107, 1);
+  font-weight: 700;
+}
+.bank-balance p{
+  margin-top: 0.2rem;
+  font-size: 12px;
+  font-weight: 600;
+  color: #9593A8;
+
+}
+.bank-icon{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #6F6AF8;
+}
+.menu-icon{
+  border-radius: 50%;
+  color: black;
+  padding: 3px;
+
+}
+.bank-balance-container{
+  display: flex;
+  gap: 1.2rem;
+  margin: 1rem 0rem;
+}
+
+/* client */
+.client-container{
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+  /* background-color: red; */
+  /* padding: 0 2rem; */
+}
+.client{
+  height: 5.4rem;
+  width: 11rem;
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+  box-shadow: rgb(211, 209, 255,1) 0px 4px 16px;
+  margin: 1rem 0;
+}
+.client p{
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+.client span{
+  background: #18AA3330;
+  border-radius: 15px;
+  width: auto;
+  height: 0.8rem;
+  padding: 2px 6px;
+  font-size: 0.5rem;
+}
+.flex-div{
+  margin-top: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+/* email-box */
+.email{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #6F6AF8;
+  padding: 8px;
+  border-radius: 15px;
+  /* width: 70vw; */
+}
+.email img{
+  width: 1.5rem;
+  border-radius: 50%;
+}
+.email p{
+  margin: 0 auto;
+}
+
+.dashboard-container{
+/* width: 90%; */
+border-radius: 15px;
+/* background-color: red; */
+}

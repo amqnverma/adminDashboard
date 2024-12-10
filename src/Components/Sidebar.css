@@ -1,0 +1,36 @@
+
+
+.sidebar{
+  width: 6vw;
+  height: 95vh;
+  background-color: #6F6AF8;
+  color: white;
+  padding: 1rem;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.icon{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.house{
+  width: 5rem;
+  border-left: 8px solid #fff;
+}
+
+.icon-hover:hover{
+  cursor: pointer;
+  transition: 0.3s ease-out;
+  font-size: 5rem;
+  transform: scale(1.3);
+
+}
+/* .icon-hover{
+  transform: scale(1.3);
+} */
