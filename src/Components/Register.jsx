@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Register.css";
-import signin from "../assets/signup.png";
+import signin from "../assets/Signup.png";
 import { Link, useNavigate } from "react-router-dom";
 
 const Register = () => {

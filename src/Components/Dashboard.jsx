@@ -2,7 +2,6 @@ import React from "react";
 import "./Dashboard.css";
 import jack from "../assets/jack.png";
 import tom from "../assets/tom.png";
-import megan from "../assets/megan.png";
 import gerard from "../assets/gerard.png";
 import simon from "../assets/simon.png";
 import graph from "../assets/graph.png";
